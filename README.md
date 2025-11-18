@@ -1,9 +1,7 @@
 # Hola, soy Marcos 👋
 
 ## 💼 Sobre mí
-Desarrollador Full-Stack especializado en arquitecturas cloud y SaaS. Actualmente estoy trabajando para una empresa lider en el desarrollo del software y tecnologia, y en el lanzamiento de una empresa de software propia con enfoque en soluciones escalables.
-
-Fundador Azentic Sys
+Desarrollador Full-Stack especializado en arquitecturas cloud y SaaS. Actualmente estoy trabajando para una empresa lider en el desarrollo del software y tecnologia, y en el lanzamiento de una empresa de software con enfoque en soluciones escalables.
 
 ## 🛠️ Stack Técnico
 
