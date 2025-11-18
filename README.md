@@ -1,9 +1,9 @@
 # Hola, soy Marcos 👋
 
 ## 💼 Sobre mí
-Desarrollador Full-Stack especializado en arquitecturas cloud y SaaS. Actualmente trabajando en el lanzamiento de una empresa de software con enfoque en soluciones escalables.
+Desarrollador Full-Stack especializado en arquitecturas cloud y SaaS. Actualmente estoy trabajando para una empresa lider en el desarrollo del software y tecnologia, y en el lanzamiento de una empresa de software propia con enfoque en soluciones escalables.
 
-**AWS Solutions Architect** certificado | Co-fundador en desarrollo de producto SaaS
+Fundador Azentic Sys
 
 ## 🛠️ Stack Técnico
 
