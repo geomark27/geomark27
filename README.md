@@ -1,9 +1,9 @@
-# Hola, soy Marcos 👋
+# Hi, I'm Marcos 👋
 
-## 💼 Sobre mí
-Desarrollador Full-Stack especializado en arquitecturas cloud y SaaS. Actualmente estoy trabajando para una empresa lider en el desarrollo del software y tecnologia, y en el lanzamiento de una empresa de software con enfoque en soluciones escalables.
+## 💼 About Me
+Software Developer III, specializing in cloud and SaaS architectures. I am currently working for a leading software and technology development company, and launching a software company focused on scalable solutions.
 
-## 🛠️ Stack Técnico
+## 🛠️ Tech Stack
 
 **Backend**
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -18,15 +18,16 @@ Desarrollador Full-Stack especializado en arquitecturas cloud y SaaS. Actualment
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![AWS Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-Certified-orange)
 
-## 🚀 En qué estoy trabajando
-- Desarrollando un producto micro-SaaS con potencial global
-- Evaluando oportunidades en optimización cloud y herramientas B2B
-- Construyendo arquitecturas serverless escalables
+## 🚀 What I'm Working On
+- Developing a micro-SaaS product with global potential
+- Evaluating opportunities in cloud optimization and B2B tools
+- Building scalable serverless architectures
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geomark27&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geomark27&layout=compact&theme=dark)
 
-## 📫 Conecta conmigo
+## 📫 Connect with Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://geomark27.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-ramos-831475207/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rmarcosgeovanny1027@gmail.com)
