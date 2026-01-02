@@ -24,8 +24,8 @@ Software Developer III, specializing in cloud and SaaS architectures. I am curre
 - Building scalable serverless architectures
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geomark27&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geomark27&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=geomark27&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=geomark27&layout=compact&theme=dark)
 
 ## 📫 Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://geomark27.netlify.app/)
